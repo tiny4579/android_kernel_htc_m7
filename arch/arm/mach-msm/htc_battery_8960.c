@@ -40,7 +40,6 @@
 #include <mach/htc_charger.h>
 #include <mach/htc_battery_cell.h>
 
-#include <linux/fastchg.h>
 
 #define HTC_BATT_CHG_DIS_BIT_EOC	(1)
 #define HTC_BATT_CHG_DIS_BIT_ID		(1<<1)
